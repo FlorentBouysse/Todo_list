@@ -11,15 +11,15 @@ Project for training
 - <span style="color:green"><del>Create authentificator</del></span>
 - <span style="color:green"><del>Create user</del></span>
 - <span style="color:green"><del>Create bdd</del></span>
-- Add and manage Rôle
-- Create task form
-- Create task view
-- Create category form
-- Create category view
-- create all back controller
+- <span style="color:white">Add and manage Rôle
+- <span style="color:white">Create task form
+- <span style="color:white">Create task view
+- <span style="color:white">Create category form
+- <span style="color:white">Create category view
+- <span style="color:white">create all back controller
 
 ### Frontoffice
 
-- create all front controller
-- Create view todolist
-- Create view connexion  
+- <span style="color:white">create all front controller
+- <span style="color:white">Create view todolist
+- <span style="color:white">Create view connexion  
